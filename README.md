@@ -1,7 +1,7 @@
 # docker-ubuntu2004-systemd
 
-[![CI](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/ci.yml)
-[![CD](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/cd.yml/badge.svg?branch=main)](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/cd.yml)
+[![CI](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/ci.yml/badge.svg)](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/ci.yml)
+[![CD](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/cd.yml/badge.svg)](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/cd.yml)
 
 A minimal systemd enabled Ubuntu 20.04 Docker image for testing Ansible roles with Molecule.
 

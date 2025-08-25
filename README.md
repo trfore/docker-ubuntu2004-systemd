@@ -1,3 +1,7 @@
+## EOL Notice
+
+**Standard Mainenance & Security Support ended on May 31, 2025, this repo is now archived using the base image from the April 9, 2025.**
+
 # docker-ubuntu2004-systemd
 
 [![CI](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/ci.yml/badge.svg)](https://github.com/trfore/docker-ubuntu2004-systemd/actions/workflows/ci.yml)
